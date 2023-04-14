@@ -58,7 +58,7 @@ body {
 .big {
   background-image: linear-gradient(
       to right bottom,
-      rgba(80, 12, 31, 0.6),
+      rgba(80, 25, 232),
       rgba(110, 57, 19, 0.4)
     ),
     url("img/bg-img.png");
